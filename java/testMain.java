@@ -7,6 +7,7 @@ public class testMain {
         try {
             test();
             System.out.println("====== Test called =========");
+            System.out.println("====== Test snyk called  =========");
         } catch(Exception ex) {
             ex.printStackTrace();
         }
